@@ -10,7 +10,7 @@ function Card(props) {
         <img className="" src={pdd} alt="" />
       </div>
       <p className="p-2 text-center text-teal-400">
-        {props.quote.Character} - {props.quote.Anime} lol
+        {props.quote.Character} - {props.quote.Anime} loln
       </p>
       <div className="p-2 ml-9">
         <button
